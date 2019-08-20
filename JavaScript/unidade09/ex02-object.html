@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Aulas de Javascript</title>
+        <script>
+            var produto = new Object();
+            
+            produto.nome = "Caneta";
+            produto.valor = 1.99;
+            produto.cor = "Azul";
+            
+            function retornarInfo(){
+                return "Produto: " + this.nome + ", custa: " + this.valor + ", cor: " + this.cor;
+            }
+            
+            produto.info = retornarInfo;
+            
+            alert(produto.info());
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>

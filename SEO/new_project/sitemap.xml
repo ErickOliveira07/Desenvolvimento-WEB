@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.imediabrasil.com.br/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/assinatura/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/sobrenos/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/login/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-html5.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_css3_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_javascript_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-ecmascript6.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-bootstrap-essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_jquery_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_jquery_dicas.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_jquery_mobile.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-google-adwords.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-facebook-ads-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-seo-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_wordpress_com_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-wordpress-temas.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_php_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_php_integracao.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_php_ajax.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_php_oop.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_mysql_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-coldfusion-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-coldfusion-com-banco-de-dados.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-youtube-api-v3.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-adobe-portfolio.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-photoshop-cc2018-essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_photoshopcc_avancado.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_photoshopcc_tratamento.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_photoshopcc_cameraraw.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-illustrator-cc2018-essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-indesign-cc2018-essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_dreamweavercc_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-adobe-muse-cc2015.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_fireworkscs6_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_premierepro_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-adobe-after-effects-cc2015.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_cinema4d_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-rubberhose.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_maya3d_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_flashcs5_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_as3_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_as3_avancado.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_as3_bancodedados.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/precos/../assinatura/?CFID=57170115&amp;CFTOKEN=e86cbc2db019e2a2-D3894293-24E8-76F5-3EDA3DED080D2F6B</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/autenticar/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/carrinho/carrinho_anual_fase_cadastro_bf.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-adobexd-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-adobexd-avancado.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-illustrator-cc2015-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_photoshopcc2015_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_indesign_cc_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_coreldraw_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-javascript-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-css3-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_aftereffectscc_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_coldfusion_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-wordpress-avancado-2018.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_adobe_muse_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_dreamweavercs6_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_dreamweavercs6_php.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-ads-rede-de-pesquisa-2018.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-ads-rede-de-display-2018.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-ads-avancado-2018.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_html5_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_indesigncs6_digital_publishing.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/trial/index.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/login/esqueceu.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/assinatura/index.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso-ecmascript-6.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_photoshopcc_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_illustratorcc_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/cursos/curso_indesigncs6_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/trial/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-html5.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_css3_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_javascript_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_jquery_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_jquery_dicas.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_jquery_mobile.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-google-adwords.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-seo-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_wordpress_com_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_php_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_php_integracao.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_php_ajax.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_php_oop.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_mysql_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-coldfusion-com-banco-de-dados.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-youtube-api-v3.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-adobe-portfolio.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_photoshopcc_avancado.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_photoshopcc_tratamento.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_photoshopcc_cameraraw.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso-illustrator-cc2015-fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_indesign_cc_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_dreamweavercc_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_adobe_muse_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_fireworkscs6_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_premierepro_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_aftereffectscc_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_cinema4d_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_flashcs5_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_as3_essencial.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_as3_avancado.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_as3_bancodedados.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/precos/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/precos/index.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_photoshopcc2015_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://www.imediabrasil.com.br/europa/cursos/curso_coldfusion_fundamental.cfm</loc>
+  <lastmod>2019-07-08T21:45:26+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>

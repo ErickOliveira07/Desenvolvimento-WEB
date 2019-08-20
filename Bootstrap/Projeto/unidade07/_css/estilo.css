@@ -1,0 +1,8 @@
+div.container {
+    padding-top: 65px;
+}
+
+.navbar-deafault {
+    background: rgba(255,255,255, 1);
+    color: #FFF;
+}
